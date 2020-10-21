@@ -8,6 +8,7 @@ public class string1 {
 		      Scanner sc = new Scanner(System.in);
 		 
 		      System.out.println("Enter a string:");
+		      System.out.println("Enter a string:");
 		      str = sc.nextLine();
 		 
 		      int length = str.length();
